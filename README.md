@@ -1,6 +1,11 @@
 ![Header](./github-header-image-amber-1.png)
-![Amber's GitHub stats](https://github-readme-stats.vercel.app/api?username=amberm31&hide=contribs&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amberm31&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github-readme-stats.vercel.app/api?username=amberm31&hide=contribs&show_icons=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amberm31&hide=contribs&show_icons=true&theme=radical" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=amberm31&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amberm31&layout=compact" />
+</a>
 
 ### A little more about me...
 
@@ -8,6 +13,6 @@
 ```javascript
 const knowledge = {
   code: [Javascript, Typescript, HTML, CSS, Sass, Python],
-  tools: [React, Node, Django, Styled-Components, Jest, MongoDB, Express],
+  tools: [React, Node, Django, Styled-Components, Jest, MongoDB, Express, Heroku, Postman]
 }
 ```

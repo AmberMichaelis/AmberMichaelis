@@ -72,7 +72,7 @@
   
   </td><td valign="center" width="500px" border="none">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amberm31&layout=compact" align="center" style="width: 500px"/></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amberm31&layout=compact&langs_count=9" align="center" style="width: 500px"/></div>
 
   </td></tr></table> 
 <br/>  

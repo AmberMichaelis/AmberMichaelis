@@ -1,13 +1,8 @@
+<div align="center"><img src="./github-header-image-amber-3.png" align="center" style="width: 100%"/></div>
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
-</div>  
-  
-<div align="center"><img src="./github-header-image-amber-1.png" align="center" style="width: 100%"/></div>
-  
+### <div align="center">Hi! I'm Amber 👩🏻. A full-time full-stack freelance developer 👨‍💻 working remotely 🚀</div>  
 
-### <div align="center">Hi! I'm Amber. A full-time full-stack freelance developer 👨‍💻 working remotely 🚀</div>  
-  
+<br/>
 
 - 🔭 Most of my projects are on [KrustyKrab.us](www.krustykrab.us)  
   
@@ -20,9 +15,9 @@
 
 - ⚡ Fun fact: I just finished my first 10K Tough Mudder  
   
-
-<br/>  
-
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
+</div>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
@@ -96,4 +91,4 @@ const knowledge = {
 
 ---
 <br/>
-<div align="center">Part of this profile was generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a> and [Image Header Generator](https://github.com/leviarista/github-profile-header-generator)</div>
+<div align="center"><a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a> and <a href="https://github.com/leviarista/github-profile-header-generator" target="_blank">Github Image Header Generator</a></div>

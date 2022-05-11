@@ -1,8 +1,9 @@
-<div align="center"><img src="./github-header-image-amber-1.png" align="center" style="width: 100%"/></div>
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
 </div>  
+  
+<div align="center"><img src="./github-header-image-amber-1.png" align="center" style="width: 100%"/></div>
   
 
 ### <div align="center">Hi! I'm Amber. A full-time full-stack freelance developer 👨‍💻 working remotely 🚀</div>  
@@ -68,11 +69,11 @@
 <table><tr><td valign="center" width="500px" border-radius="0px">
 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=amberm31&hide=contribs&show_icons=true&theme=radical" align="center" style="width: 500px"/></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=amberm31&hide=contribs&show_icons=true&hide_border=true" align="center" style="width: 500px"/></div>
   
   </td><td valign="center" width="500px" border="none">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amberm31&layout=compact&langs_count=9" align="center" style="width: 500px"/></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amberm31&layout=compact&langs_count=9&hide_border=true" align="center" style="width: 500px"/></div>
 
   </td></tr></table> 
 <br/>  
@@ -95,4 +96,4 @@ const knowledge = {
 
 ---
 <br/>
-<div align="center">Part of this profile was generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Part of this profile was generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a> and [Image Header Generator](https://github.com/leviarista/github-profile-header-generator)</div>

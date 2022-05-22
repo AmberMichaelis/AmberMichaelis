@@ -1,6 +1,6 @@
 <div align="center"><img src="./github-header-image-amber-3.png" align="center" style="width: 100%"/></div>
 
-### <div align="center">Hi! I'm Amber 👩🏻. A full-time full-stack freelance developer 👨‍💻 working remotely 🚀</div>  
+### <div align="center">Hi! I'm Amber 💃. A full-time full-stack freelance developer 👩‍💻 working remotely 🚀</div>  
 
 <br/>
 
@@ -13,11 +13,11 @@
 - ❓ Ask me anything about JavaScript
   
 
-- ⚡ Fun fact: I just finished my first 10K Tough Mudder  
+- ⚡ Fun fact: I have a Chemical Engineering degree and my programming knowledge is self-taught  
   
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
-</div>  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="300px" />
+</div>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">

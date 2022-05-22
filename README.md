@@ -64,11 +64,11 @@
 <table><tr><td valign="center" width="500px" border-radius="0px">
 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=amberm31&hide=contribs&show_icons=true&hide_border=true" align="center" style="width: 500px"/></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AmberSwieczkowski&hide=contribs&show_icons=true&hide_border=true" align="center" style="width: 500px"/></div>
   
   </td><td valign="center" width="500px" border="none">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amberm31&layout=compact&langs_count=8&hide_border=true" align="center" style="width: 500px"/></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmberSwieczkowski&layout=compact&langs_count=8&hide_border=true" align="center" style="width: 500px"/></div>
 
   </td></tr></table> 
 <br/>  

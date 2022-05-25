@@ -79,7 +79,7 @@
 ```javascript
 const knowledge = {
   code: [Javascript, Java, Python, Typescript, HTML, CSS, Sass],
-  tools: [React, Node, Django, Styled-Components, Jest, MongoDB, Express, Heroku, Postman]
+  tools: [React, Node, Styled-Components, Jest, MongoDB, Express, Heroku, Postman]
 }
 ```
 

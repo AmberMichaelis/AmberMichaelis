@@ -7,7 +7,7 @@
 - 🔭 Most of my projects are on [KrustyKrab.us](www.krustykrab.us)  
   
 
-- 🌱 I’m currently learning MongoDB  
+- 🌱 I’m currently taking a Java Data Structures and Algorithms class through Georgia Tech  
   
 
 - ❓ Ask me anything about JavaScript

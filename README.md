@@ -1,4 +1,4 @@
-<div align="center"><img src="./github-header-image-amber-3.png" align="center" style="width: 100%"/></div>
+<div align="center"><img src="./github-header-image-amber-1.png" align="center" style="width: 100%"/></div>
 
 ### <div align="center">Hi! I'm Amber 💃. A full-time full-stack freelance developer 👩‍💻 working remotely 🚀</div>  
 

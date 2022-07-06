@@ -1,19 +1,19 @@
 <div align="center"><img src="./github-header-image-amber-1.png" align="center" style="width: 100%"/></div>
 
-### <div align="center">Hi! I'm Amber 💃. A full-time full-stack freelance developer 👩‍💻 working remotely 🚀</div>  
+### <div align="center">Hi! I'm Amber 💃. A full-stack freelance developer 👩‍💻 working remotely 🚀</div>  
 
 <br/>
 
-- 🔭 Most of my projects are on [KrustyKrab.us](www.krustykrab.us)  
+- 🔭 Several of my projects are on [KrustyKrab.us](https://www.krustykrab.us/projects.html). This site is updated often so check back soon!
   
 
-- 🌱 I’m currently taking a Java Data Structures and Algorithms class through Georgia Tech  
+- 🌱 I’m currently learning advanced Data Structures in Java  
   
 
 - ❓ Ask me anything about JavaScript
   
 
-- ⚡ Fun fact: I have a Chemical Engineering degree and my programming knowledge is self-taught  
+- ⚡ Fun fact: I have a BS in Chemical Engineering and I'm working on a MS in Computer Science
 
 <br/>
 

@@ -76,8 +76,8 @@
 
 ```javascript
 const knowledge = {
-  code: [Javascript, Java, Python, Typescript, HTML, CSS, Sass],
-  tools: [React, Node, Styled-Components, Jest, MongoDB, Express, Heroku, Postman]
+  code: [Javascript, Java, HTML, CSS, Sass],
+  tools: [Git, React, Node, Styled-Components, Jest, MongoDB, Express, Heroku, Postman]
 }
 ```
 

@@ -1,6 +1,6 @@
 <div align="center"><img src="./github-header-image-amber-3.png" align="center" style="width: 100%"/></div>
 
-### <div align="center">Hi! I'm Amber 💃. A full-stack developer 👩‍💻 working remotely 🚀</div>  
+### <div align="center">Hi! I'm Amber 💃. A full-stack developer 👩‍💻</div>  
 
 <br/>
 
@@ -76,8 +76,8 @@
 
 ```javascript
 const knowledge = {
-  code: [Javascript, Java, HTML, CSS, Sass],
-  tools: [Git, React, Node, Styled-Components, Jest, MongoDB, Express, Heroku, Postman]
+  code: [Javascript, Java, Ruby],
+  tools: [Git, React, Node, Jest, JUnit, MongoDB, MySQL, Heroku, Postman]
 }
 ```
 

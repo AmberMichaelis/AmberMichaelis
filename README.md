@@ -7,13 +7,13 @@
 - 🔭 Check out my resume and projects at [AmberMichaelis.com](http://ambermichaelis.com/)
   
 
-- 🌱 I’m currently learning Advanced Data Structures in Java  
+- 🌱 I’m currently learning Ruby on Rails  
   
 
 - ❓ Ask me anything about JavaScript. I'm in the top 5% of 2.2M people who took the LinkedIn JavaScript assessment
   
 
-- ⚡ Fun fact: I have a BS in Chemical Engineering and I'm working on a MS in Computer Science
+- ⚡ Fun fact: I have a BS in Chemical Engineering and I'm taking some cybersecurity courses
 
 <br/>
 

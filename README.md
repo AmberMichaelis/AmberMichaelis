@@ -13,7 +13,7 @@
 - ❓ Ask me anything about JavaScript. I'm in the top 5% of 2.2M people who took the LinkedIn JavaScript assessment
   
 
-- ⚡ Fun fact: I have a BS in Chemical Engineering and I'm taking some cybersecurity courses
+- ⚡ Fun fact: I have a BS in Chemical Engineering and currently studying Cybersecurity
 
 <br/>
 

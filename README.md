@@ -7,7 +7,7 @@
 - 🔭 Check out my resume and projects at [AmberMichaelis.com](http://ambermichaelis.com/)
   
 
-- 🌱 I’m currently learning Docker  
+- 🌱 I’m currently learning Docker
   
 
 - ❓ Ask me anything about JavaScript. I'm in the top 5% of 2.2M people who took the LinkedIn JavaScript assessment
@@ -77,7 +77,7 @@
 ```javascript
 const knowledge = {
   code: [Javascript, TypeScript, Java, Ruby],
-  tools: [Git, React, Node, Docker, Jest, JUnit, MongoDB, MySQL, Heroku, Postman]
+  tools: [Git, React, Node, Docker, Jest, JUnit, MongoDB, MySQL, Bootstrap, Heroku, Postman]
 }
 ```
 

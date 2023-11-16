@@ -5,15 +5,15 @@
 <br/>
 
 - 🔭 Check out my resume and projects at [AmberMichaelis.com](http://ambermichaelis.com/)
-  
 
-- 🌱 I’m currently learning Docker
+  
+- 🌱 I’m currently learning NextJS
   
 
 - ❓ Ask me anything about JavaScript. I'm in the top 5% of 2.2M people who took the LinkedIn JavaScript assessment
   
 
-- ⚡ Fun fact: I have a BS in Chemical Engineering and currently studying Artificial Intelligence
+- ⚡ Fun fact: I have a BS in Chemical Engineering and I am currently working on an Amazon Web Services Cloud Developer Certification
 
 <br/>
 

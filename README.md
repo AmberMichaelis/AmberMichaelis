@@ -7,13 +7,13 @@
 - 🔭 Check out my resume and projects at [AmberMichaelis.com](http://ambermichaelis.com/)
 
   
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning CompTIA Security+
   
 
 - ❓ Ask me anything about JavaScript. I'm in the top 5% of 2.2M people who took the LinkedIn JavaScript assessment
   
 
-- ⚡ Fun fact: I have a BS in Chemical Engineering and I am currently working on my CompTIA Security+ Certification
+- ⚡ Fun fact: I have a BS in Engineering and I am currently working on a second BS in Computer Science with a minor in Cybersecurity
 
 <br/>
 

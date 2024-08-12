@@ -2,8 +2,6 @@
 
 <br/>
 
-- 🔭 Check out my resume and projects at [AmberMichaelis.com](http://ambermichaelis.com/)
-
   
 - 🌱 Working on a second BS in Computer Science
   
@@ -61,7 +59,7 @@
 ```javascript
 const knowledge = {
   code: [Python, Javascript, TypeScript, Java],
-  tools: [Git, ReactJS, NextJS, Node, Wireshark, Splunk, MongoDB, MySQL, AI]
+  tools: [Git, ReactJS, NextJS, Node, Wireshark, MongoDB, MySQL, AI]
 }
 ```
 

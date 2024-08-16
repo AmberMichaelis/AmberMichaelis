@@ -3,7 +3,7 @@
 <br/>
 
   
-- 🌱 Working on a second BS in Computer Science
+- 🌱 Studying for Google's Professional Machine Learning Engineer Certificate
   
 
 - ❓ In the top 5% of 2.2M people who took the LinkedIn JavaScript assessment
@@ -13,7 +13,7 @@
 
 
 
-- 💕 Passion: Working toward a MS in Artificial Intelligence
+- 💕 Passion: BS Computer Science in progress, MS Artificial Intelligence coming soon
 
 <br/>
 

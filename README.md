@@ -9,11 +9,11 @@
 - ❓ In the top 5% of 2.2M people who took the LinkedIn JavaScript assessment
   
 
-- ⚡ Fun fact: I have a BS in Engineering, CompTIA Security+ CE, and Google Cybersecurity Professional Certificate
+- ⚡ BS in Engineering, CompTIA Security+ CE, and Google Cybersecurity Professional Certificate
 
 
 
-- 💕 Passion: BS Computer Science in progress, MS Artificial Intelligence coming soon
+- 💕 BS Computer Science in progress, MS Artificial Intelligence coming soon
 
 <br/>
 
@@ -30,14 +30,11 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div>
@@ -59,7 +56,7 @@
 ```javascript
 const knowledge = {
   code: [Python, Javascript, TypeScript, Java],
-  tools: [Git, ReactJS, NextJS, Node, Wireshark, MongoDB, MySQL, AI]
+  tools: [Git, ReactJS, NextJS, Node, MongoDB, MySQL, AI]
 }
 ```
 

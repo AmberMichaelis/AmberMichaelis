@@ -3,14 +3,13 @@
 <br/>
 
   
-- 🌱 Studying for Google's Professional Machine Learning Engineer Certificate
+- 🌱 Studying for the AWS Certified Cloud Practitioner Certification
   
 
 - ❓ In the top 5% of 2.2M people who took the LinkedIn JavaScript assessment
   
 
-- ⚡ BS in Engineering, CompTIA Security+ CE, and Google Cybersecurity Professional Certificate
-
+- ⚡ BS in Engineering, CompTIA Security+ CE, Google Cybersecurity Professional Certificate
 
 
 - 💕 BS Computer Science in progress, MS Artificial Intelligence coming soon

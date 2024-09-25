@@ -9,10 +9,13 @@
 - ❓ In the top 5% of 2.2M people who took the LinkedIn JavaScript assessment
   
 
-- ⚡ BS in Engineering, CompTIA Security+ CE, Certified by Google in Cybersecurity and by Stanford in Machine Learning
+- ⚡ BS in Engineering, BS Computer Science
 
 
-- 💕 BS Computer Science in progress, MS Artificial Intelligence coming soon
+- 🐑 CompTIA Security+ CE, Cybersecurity, Machine Learning
+
+
+- 💕 MS Artificial Intelligence coming soon
 
 <br/>
 

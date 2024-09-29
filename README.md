@@ -3,19 +3,19 @@
 <br/>
 
   
-- 🌱 Studying for the AWS Certified Cloud Practitioner Certification
+- 🌱  Studying for the AWS Certified Cloud Practitioner Certification
   
 
-- ❓ In the top 5% of 2.2M people who took the LinkedIn JavaScript assessment
+- ❓  In the top 5% of 2.2M people who took the LinkedIn JavaScript assessment
   
 
-- ⚡ BS in Engineering, BS Computer Science
+- ⚡  BS in Engineering, BS Computer Science
 
 
-- 🐑 CompTIA Security+ CE, Cybersecurity, Machine Learning
+- 🐑  CompTIA Security+ CE, Cybersecurity, Machine Learning
 
 
-- 💕 MS Artificial Intelligence coming soon
+- 💕  MS Artificial Intelligence coming soon
 
 <br/>
 

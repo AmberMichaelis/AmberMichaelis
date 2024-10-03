@@ -49,18 +49,6 @@
 
 </td></tr></table>  
 
-<br/>  
-
-### A little more about me...
-
-
-```javascript
-const knowledge = {
-  code: [Python, Javascript, TypeScript, Java],
-  tools: [Git, ReactJS, NextJS, Node, MongoDB, MySQL, AI]
-}
-```
-
 <br/>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=amberm31&&style=flat-square" align="center" />

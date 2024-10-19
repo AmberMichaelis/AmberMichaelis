@@ -6,7 +6,7 @@
 - 🌱  Studying for the AWS Certified Cloud Practitioner Certification
   
 
-- ❓  In the top 5% of 2.2M people who took the LinkedIn JavaScript assessment
+- ❓  In the top 5% of JavaScript Developers
   
 
 - ⚡  BS in Engineering, BS Computer Science

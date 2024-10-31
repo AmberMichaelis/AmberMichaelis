@@ -3,19 +3,19 @@
 <br/>
 
   
-- 🌱  Studying for the AWS Certified Cloud Practitioner Certification
+- 🌱  Currently Learning AWS and Cloud Security
   
 
-- ❓  In the top 5% of JavaScript Developers
+- ❓  In the Top 5% of JavaScript Developers
   
 
-- ⚡  BS in Engineering, BS Computer Science
+- ⚡  BS in Engineering, BS Computer Science, Cybersecurity, Machine Learning
 
 
-- 🐑  CompTIA Security+ CE, Cybersecurity, Machine Learning
+- 🐑  CompTIA Security+ CE
+  
 
-
-- 💕  MS Artificial Intelligence coming soon
+- 💕  Full-Stack and Mobile App Development
 
 <br/>
 
@@ -32,6 +32,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  

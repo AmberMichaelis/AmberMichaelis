@@ -9,7 +9,7 @@
 - ❓  In the Top 5% of JavaScript Developers
   
 
-- ⚡  BS in Engineering, BS Computer Science, Cybersecurity, Machine Learning
+- ⚡  Engineering, Computer Science, Cybersecurity, Machine Learning
 
 
 - 🐑  CompTIA Security+ CE

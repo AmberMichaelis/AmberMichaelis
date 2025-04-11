@@ -6,7 +6,7 @@
 - 🌱  Currently Learning AWS and Cloud Security
   
 
-- ❓  In the Top 5% of JavaScript Developers
+- ❓  In the Top 5% of JavaScript Developers, according to LinkedIn
   
 
 - ⚡  Engineering, Computer Science, Cybersecurity, Machine Learning

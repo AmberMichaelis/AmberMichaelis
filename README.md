@@ -12,7 +12,7 @@
 - ⚡  Engineering, Computer Science, Cybersecurity, Machine Learning
 
 
-- 🐑  CompTIA Security+ CE
+- 🐑  CompTIA Security+ CE, Pentest+ (in progress)
   
 
 - 💕  Full-Stack and Mobile App Development

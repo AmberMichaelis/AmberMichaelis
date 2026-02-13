@@ -3,50 +3,21 @@
 <br/>
 
   
-- 🌱  Currently Learning AWS and Cloud Security
+- 🌱  Currently Learning Cloud Security
   
 
 - ❓  In the Top 5% of JavaScript Developers on LinkedIn
   
 
-- ⚡  Engineering, Computer Science, Cybersecurity, Machine Learning
+- ⚡  Engineering (MSU), Computer Science (LSU), Cybersecurity, Machine Learning
 
 
-- 🐑  CompTIA Security+ CE, PenTest+ CE (in progress)
+- 🐑  CompTIA Network+, Security+, PenTest+
   
 
 - 💕  Full-Stack and Mobile App Development
 
 <br/>
-
-## My Skill Set  
-<table><tr><td valign="top" width="50%">
-
-
-
-### Frontend & Backend
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />    
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />   
-</div>
-
-</td><td valign="top" width="50%">
-  
-<div align="center">  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmberMichaelis&layout=compact&langs_count=8&hide_border=true" align="center" style="width: 500px"/></div>
-</div>
-
 
 </td></tr></table>  
 

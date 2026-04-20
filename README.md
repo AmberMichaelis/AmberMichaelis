@@ -9,7 +9,7 @@
 - ❓  In the Top 5% of JavaScript Developers on LinkedIn
   
 
-- ⚡  Engineering (MSU), Computer Science (LSU), Cybersecurity, Machine Learning
+- ⚡  BS Engineering (MSU), BS Computer Science (LSU), MS Cybersecurity (Georgia Tech, in progress)
 
 
 - 🐑  CompTIA Network+, Security+, PenTest+

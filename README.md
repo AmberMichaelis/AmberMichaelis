@@ -2,20 +2,24 @@
 
 <br/>
 
-  
-- 🌱  Currently Learning Cloud Security
-  
+Cybersecurity Professional | Security+ | Georgia Tech OMS Cybersecurity | Critical Infrastructure Security | Blue Team Operations | Incident Response | Threat Detection
 
-- ❓  In the Top 5% of JavaScript Developers on LinkedIn
-  
+Education
+- BS Computer Science (LSUA) – GPA 3.89
+- BS Chemical Engineering
+- MS Cybersecurity (Georgia Tech, in progress)
 
-- ⚡  BS Engineering (MSU), BS Computer Science (LSU), MS Cybersecurity (Georgia Tech, in progress)
+Certifications
+- CompTIA Security+
+- Google Cybersecurity Certificate
 
-
-- 🐑  CompTIA Network+, Security+, PenTest+
-  
-
-- 💕  Full-Stack and Mobile App Development
+Areas of Interest
+- Incident Response
+- Threat Hunting
+- Detection Engineering
+- SIEM Analysis
+- Critical Infrastructure Security
+- ICS/OT Security
 
 <br/>
 

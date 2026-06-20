@@ -2,16 +2,18 @@
 
 <br/>
 
-Cybersecurity Professional | Security+ | Georgia Tech OMS Cybersecurity | Critical Infrastructure Security | Blue Team Operations | Incident Response | Threat Detection
+Cybersecurity Analyst | Security+ | Georgia Tech OMS Cybersecurity | Critical Infrastructure Security | Blue Team Operations | Incident Response | Threat Detection | Software Developer
 
 Education
-- BS Computer Science (LSUA) – GPA 3.89
+- MS Cybersecurity (Georgia Tech, In Progress)
+- BS Computer Science – GPA 3.89 / 4.0
 - BS Chemical Engineering
-- MS Cybersecurity (Georgia Tech, in progress)
 
 Certifications
 - CompTIA Security+
 - Google Cybersecurity Certificate
+- CompTIA Network+ (In Progress)
+- CompTIA PenTest+ (In Progress)
 
 Areas of Interest
 - Incident Response

@@ -13,7 +13,6 @@ Certifications
 - CompTIA Security+
 - Google Cybersecurity Certificate
 - CompTIA Network+ (In Progress)
-- CompTIA PenTest+ (In Progress)
 
 Areas of Interest
 - Incident Response

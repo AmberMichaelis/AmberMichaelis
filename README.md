@@ -12,6 +12,7 @@ Education
 Certifications
 - CompTIA Security+
 - Google Cybersecurity Certificate
+- Stanford Machine Learning
 - CompTIA Network+ (In Progress)
 
 Areas of Interest

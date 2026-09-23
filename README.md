@@ -2,10 +2,10 @@
 
 <br/>
 
-Cybersecurity Analyst | Security+ | Georgia Institute of Technology MS Cybersecurity | Critical Infrastructure Security | Blue Team Operations | Incident Response | Threat Detection | Software Developer
+Cybersecurity Analyst | Security+ | MS Cybersecurity (In Progress) | Critical Infrastructure Security | Blue Team Operations | Incident Response | Threat Detection | Software Developer
 
 Education
-- MS Cybersecurity (Georgia Institute of Technology, In Progress)
+- MS Cybersecurity (In Progress)
 - BS Computer Science – GPA 3.89 / 4.0
 - BS Chemical Engineering
 
